@@ -1,0 +1,8 @@
+{
+  "name": "nba-stats",
+  "app_id": "4f422d6a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
