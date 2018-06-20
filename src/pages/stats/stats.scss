@@ -1,0 +1,51 @@
+page-stats {
+}
+
+ion-content{
+    overflow: hidden;
+}
+
+.logo{
+    width: 70px;
+    height: 60px;
+    float: left;
+}
+
+ion-label{
+    float: left;
+
+}
+
+ion-select{
+    float: left;
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.349);
+    margin-bottom: 20px;
+}
+
+ion-scroll{
+    height: 75%;
+    padding-top: 10px;
+}
+
+.team{
+    color: color($colors,"primary");
+}
+
+.teamImg{
+    width: 35px;
+    height: 35px;
+}
+
+.player-name{
+    text-align: justify;
+}
+
+.player-item{
+    height: 100px;
+    ion-avatar{
+        img{
+            height: 70px !important;
+            width: 70px !important;
+        }
+    }
+}

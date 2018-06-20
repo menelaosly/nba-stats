@@ -1,0 +1,30 @@
+page-details {
+}
+
+.header{
+    background:#032f4f;
+    position: relative;
+    color: white;
+}
+
+.player-img{
+    width: 130px;
+    height: 100px;
+    float: left;
+    z-index: 2;
+}
+
+.team-logo{
+    position: absolute;
+    left: 10%;
+    top: -80%;
+    z-index: -1;
+    opacity: 0.3;
+}
+
+.team-logo-sm{
+    height: 60px ;
+    width: 60px;
+    float: right;
+    padding: 0;
+}
